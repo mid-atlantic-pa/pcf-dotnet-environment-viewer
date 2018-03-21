@@ -27,7 +27,7 @@
                 <hr />
             </div>
 
-            <div class="row" runat="server" visible="false" id="attendeePane">
+            <div class="row" runat="server" visible="true" id="attendeePane">
                 <div class="large-12 columns">
                     <h3>All Attendees</h3>
                     <hr />
