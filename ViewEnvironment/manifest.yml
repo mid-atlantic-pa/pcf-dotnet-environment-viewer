@@ -1,7 +1,7 @@
 ---
 applications:
-- name: view-environment
+- name: pcf-dotnet-environment-viewer
   memory: 512m
-  stack: windows2012R2
+  stack: windows2016
   buildpack: hwc_buildpack
-  random-route: true 
+#  random-route: true 
